@@ -95,8 +95,17 @@ Each folder contains:
 
 ## 📌 Citation
 
-If you use this codebase, please consider citing our paper (citation info to be added).
+If you find this work helpful, please consider citing the original paper.
 
+```bibtex
+@inproceedings{cui2025end,
+  title={End-to-end Joint Punctuated and Normalized ASR with a Limited Amount of Punctuated Training Data,
+  author={Cui, Can and Sheikh, Imran and Sadeghi, Mostafa and Vincent, Emmanuel},
+  booktitle={IEEE the European Signal Processing Conference (EUSIPCO), September 2025},
+  year={2025},
+  pages={356-360}
+}
+```
 ---
 
 ## 📬 Contact
