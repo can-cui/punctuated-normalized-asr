@@ -1,7 +1,7 @@
 # End-to-End Joint Punctuated and Normalized ASR with a Limited Amount of Punctuated Training Data
 
 This repository contains the code used in the paper  
-**"End-to-End Joint Punctuated and Normalized ASR with a Limited Amount of Punctuated Training Data."**
+[**"End-to-End Joint Punctuated and Normalized ASR with a Limited Amount of Punctuated Training Data."**](https://eusipco2025.org/wp-content/uploads/pdfs/0000356.pdf)
 
 The experiments include joint modeling of punctuation, normalization (e.g., casing), and ASR within a unified transducer-based framework.
 
@@ -103,7 +103,7 @@ If you find this work helpful, please consider citing the original paper.
   author={Cui, Can and Sheikh, Imran and Sadeghi, Mostafa and Vincent, Emmanuel},
   booktitle={IEEE the European Signal Processing Conference (EUSIPCO)},
   year={2025},
-  pages={356-360}
+  pages={356--360}
 }
 ```
 ---
